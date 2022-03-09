@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Data-Insighter-rajitha](https://github.com/Data-Insighter-rajitha)
 
-- 📝 I regularly write code on [Data Preprocessing and Structuring Data](Data Preprocessing and Structuring Data)
+- 📝 I regularly write code on **Data Preprocessing and Structuring Data**
 
 - 💬 Ask me about **Python Data Science and Statistical data analysis**
 
